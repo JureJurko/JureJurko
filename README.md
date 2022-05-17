@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JureJurko
 - 👀 I’m interested in programming, math, nature and history.
-- 🌱 I’m currently learning Java and C programming languages
-- 💞️ I’m looking to collaborate on C projects that have goal to facilitate daily tasks.
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me : if interested send me an email at : jurefranjkovic2002@gmail.com
 
 <!---
